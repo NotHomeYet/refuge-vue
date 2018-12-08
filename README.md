@@ -1,6 +1,10 @@
-# refugevue
+# refuge-vue
+A simple social / information sharing app designed for the Refuge - the youth group of Foundry Church
+Originally written in angular / ionic, ported to vue / ionic
 
-> Refuge.Foundry.Church vue app.
+**DEV NOTE**
+In order to compile you will need to add a src/store/modules/config.js file that contains the needed firebase config info / messaging API key.
+A sample file has been included, simply copy the file, rename to config.js, and use the correct firebase config info.
 
 ## Build Setup
 
